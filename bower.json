@@ -1,0 +1,22 @@
+{
+  "name": "polymer-jquery-backstretch",
+  "version": "0.0.0",
+  "authors": [
+    "reggi <thomas@reggi.com>"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-backstretch": "srobbin/jquery-backstretch#~2.0.4",
+    "polymer": "~0.3.3"
+  }
+}
