@@ -1,0 +1,8 @@
+{
+  "name": "jquery-backstretch",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#>=0.3.0 <1.0.0",
+    "jquery-backstretch": "srobbin/jquery-backstretch#~2.0.4"
+  }
+}
