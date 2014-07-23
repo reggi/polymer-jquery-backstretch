@@ -1,0 +1,32 @@
+{
+  "name": "polymer-jquery-backstretch",
+  "authors": [
+    "reggi <thomas@reggi.com>"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-backstretch": "srobbin/jquery-backstretch#~2.0.4",
+    "polymer": "~0.3.3"
+  },
+  "homepage": "https://github.com/reggi/polymer-jquery-backstretch",
+  "_release": "3d28fabe26",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "3d28fabe263cc97c7697e4dfb57263e678bf2e10"
+  },
+  "_source": "git://github.com/reggi/polymer-jquery-backstretch.git",
+  "_target": "*",
+  "_originalSource": "reggi/polymer-jquery-backstretch",
+  "_direct": true
+}

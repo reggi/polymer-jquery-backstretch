@@ -1,0 +1,18 @@
+<link rel="import" href="../polymer/polymer.html">
+<script src="../jquery/jquery.min.js"></script>
+<script src="../jquery-backstretch/jquery.backstretch.min.js"></script>
+
+<polymer-element name="jquery-backstretch" attributes="src">
+<template>
+  <link rel="stylesheet" href="jquery-backstretch.css" shim-shadowdom>
+  <div id="inner"></div>
+</template>
+<script>
+  Polymer('jquery-backstretch', {
+    ready:function(){
+      var $inner = $(this.$['inner']);
+      $inner.backstretch(this.src);
+    }
+  });
+</script>
+</polymer-element>
