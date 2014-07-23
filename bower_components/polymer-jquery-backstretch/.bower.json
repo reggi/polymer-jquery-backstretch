@@ -19,11 +19,11 @@
     "polymer": "~0.3.3"
   },
   "homepage": "https://github.com/reggi/polymer-jquery-backstretch",
-  "_release": "3d28fabe26",
+  "_release": "7025de6be7",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "3d28fabe263cc97c7697e4dfb57263e678bf2e10"
+    "commit": "7025de6be79869162d7da1bf5299ad082f5a66ad"
   },
   "_source": "git://github.com/reggi/polymer-jquery-backstretch.git",
   "_target": "*",
