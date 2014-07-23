@@ -23,6 +23,6 @@ To create a new image use the `<jquery-backstretch>` tag.
 
 The url of the image. (required)
 
-> Note: A `width` is required to contain the blocked div. If the image isn't appearing on the screen it's due to the fact that the parent div that `<jquery-backstretch>` is contained has a `height` or `width` value that is set to `0`.
+> Note: A `width` is required to contain the blocked div. If the image isn't appearing on the screen it's due to the fact that the parent div that `<jquery-backstretch>` is contained within or the element itself has a `height` or `width` value that is set to `0`.
 
 Source: [Backstretch](http://srobbin.com/jquery-plugins/backstretch/) (Scott Robbin)
