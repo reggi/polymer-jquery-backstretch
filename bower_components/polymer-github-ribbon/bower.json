@@ -1,5 +1,5 @@
 {
-  "name": "polymer-jquery-backstretch",
+  "name": "polymer-github-ribbon",
   "version": "0.0.0",
   "authors": [
     "reggi <thomas@reggi.com>"
@@ -16,8 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "~0.3.3",
-    "polymer-jquery-backstretch": "reggi/polymer-jquery-backstretch",
-    "polymer-github-ribbon": "reggi/polymer-github-ribbon"
+    "polymer": "~0.3.3"
   }
 }

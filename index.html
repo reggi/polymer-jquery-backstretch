@@ -3,16 +3,21 @@
 <head>
   <script src="./bower_components/platform/platform.js"></script>
   <link rel="import" href="./bower_components/polymer-jquery-backstretch/jquery-backstretch.html">
+  <link rel="import" href="./bower_components/polymer-github-ribbon/github-ribbon.html">
   <style>
     html, body{
       margin:0;
       width:100%;
       height:100%;
     }
+    jquery-backstretch{
+      z-index: -1;
+      position: absolute;
+    }
   </style>
 </head>
 <body>
-  <a href="https://github.com/reggi/polymer-jquery-backstretch" style="position:absolute;top:0;left:0;z-index:99999999999"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>
+  <github-ribbon href="https://github.com/reggi/polymer-jquery-backstretch"></github-ribbon>
   <jquery-backstretch src="https://cdn.shopify.com/s/files/1/0031/5352/files/IMG_8960.JPG?25987"></jquery-backstretch>
 </body>
 </html>
